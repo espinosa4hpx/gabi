@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @espinosag
-- 👀 I’m interested in Sports Science analytics
+- 👀 I’m interested in Sports and Exercise Science
 - 🌱 I’m currently learning R language
 - 💞️ I’m looking to collaborate on biological data processing and modeling (power data analysis, oxigen kinetics).
 - 📫 How to reach me gespinosa@id.uff.br
